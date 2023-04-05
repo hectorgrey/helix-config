@@ -6,6 +6,10 @@ mouse = false
 cursorline = true
 bufferline = "multiple"
 
+[editor.soft-wrap]
+enable = true
+max-indent-retain = 0
+
 [editor.cursor-shape]
 insert = "bar"
 normal = "block"
